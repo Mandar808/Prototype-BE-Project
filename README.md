@@ -10,7 +10,9 @@ python install_dependencies.py
 --------------------------------------------------------------------------------------------------------------------------------
 
 Next step run liver_cancer_unet.py file by typing below code in terminal.
+
 python liver_cancer_unet.py
 
 Then run app.py file by typing below code in tderminal .
+
 streamlit run app.py
